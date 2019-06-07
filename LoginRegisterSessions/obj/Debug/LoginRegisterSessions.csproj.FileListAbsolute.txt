@@ -1,0 +1,387 @@
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\ApplicationInsights.config
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\LoginRegisterSessions.dll.config
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\LoginRegisterSessions.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\LoginRegisterSessions.pdb
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\csc.exe
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\csc.exe.config
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\csc.rsp
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\csi.exe
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\csi.exe.config
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\csi.rsp
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.AppContext.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Collections.Immutable.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Console.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Diagnostics.Process.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.IO.Compression.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.IO.FileSystem.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.IO.Pipes.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Reflection.Metadata.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Security.AccessControl.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Security.Claims.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Threading.Thread.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.ValueTuple.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Xml.XPath.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\vbc.exe
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\vbc.exe.config
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\vbc.rsp
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\VBCSCompiler.exe
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\roslyn\VBCSCompiler.exe.config
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Antlr3.Runtime.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\EntityFramework.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\EntityFramework.SqlServer.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Microsoft.AI.DependencyCollector.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Microsoft.AI.Web.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Microsoft.AI.WindowsServer.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Microsoft.ApplicationInsights.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Microsoft.Web.Infrastructure.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Newtonsoft.Json.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\System.Web.Helpers.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\System.Web.Mvc.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\System.Web.Optimization.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\System.Web.Razor.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\System.Web.WebPages.Deployment.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\System.Web.WebPages.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\System.Web.WebPages.Razor.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\WebGrease.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\EntityFramework.xml
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\EntityFramework.SqlServer.xml
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\System.Web.Helpers.xml
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\System.Web.Mvc.xml
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\System.Web.Optimization.xml
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\System.Web.Razor.xml
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\System.Web.WebPages.xml
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\System.Web.WebPages.Deployment.xml
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\System.Web.WebPages.Razor.xml
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Newtonsoft.Json.xml
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Antlr3.Runtime.pdb
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Microsoft.AI.DependencyCollector.xml
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Microsoft.AI.WindowsServer.xml
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Microsoft.AI.Web.xml
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.csprojResolveAssemblyReference.cache
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.csproj.CoreCompileInputs.cache
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.dll
+E:\Data Driven Web\LoginRegisterSessions\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.pdb
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\ApplicationInsights.config
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\LoginRegisterSessions.dll.config
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\LoginRegisterSessions.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\LoginRegisterSessions.pdb
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\csc.exe
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\csc.exe.config
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\csc.rsp
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\csi.exe
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\csi.exe.config
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\csi.rsp
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.AppContext.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Collections.Immutable.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Console.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Diagnostics.Process.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.IO.Compression.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.IO.FileSystem.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.IO.Pipes.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Reflection.Metadata.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Security.AccessControl.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Security.Claims.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Threading.Thread.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.ValueTuple.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Xml.XPath.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\vbc.exe
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\vbc.exe.config
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\vbc.rsp
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\VBCSCompiler.exe
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\roslyn\VBCSCompiler.exe.config
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Antlr3.Runtime.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\EntityFramework.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\EntityFramework.SqlServer.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Microsoft.AI.DependencyCollector.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Microsoft.AI.Web.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Microsoft.AI.WindowsServer.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Microsoft.ApplicationInsights.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Microsoft.Web.Infrastructure.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Newtonsoft.Json.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\System.Web.Helpers.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\System.Web.Mvc.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\System.Web.Optimization.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\System.Web.Razor.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\System.Web.WebPages.Deployment.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\System.Web.WebPages.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\System.Web.WebPages.Razor.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\WebGrease.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\EntityFramework.xml
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\EntityFramework.SqlServer.xml
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\System.Web.Helpers.xml
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\System.Web.Mvc.xml
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\System.Web.Optimization.xml
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\System.Web.Razor.xml
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\System.Web.WebPages.xml
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\System.Web.WebPages.Deployment.xml
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\System.Web.WebPages.Razor.xml
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Newtonsoft.Json.xml
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Antlr3.Runtime.pdb
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Microsoft.AI.DependencyCollector.xml
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Microsoft.AI.WindowsServer.xml
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Microsoft.AI.Web.xml
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.csproj.CoreCompileInputs.cache
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.dll
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.pdb
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.csprojAssemblyReference.cache
+E:\Data Driven Web\LoginRegisterSessions - Copy\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.csproj.CopyComplete
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\ApplicationInsights.config
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\LoginRegisterSessions.dll.config
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\LoginRegisterSessions.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\LoginRegisterSessions.pdb
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\csc.exe
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\csc.exe.config
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\csc.rsp
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\csi.exe
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\csi.exe.config
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\csi.rsp
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.AppContext.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Collections.Immutable.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Console.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Diagnostics.Process.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.IO.Compression.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.IO.FileSystem.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.IO.Pipes.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Reflection.Metadata.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Security.AccessControl.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Security.Claims.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Threading.Thread.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.ValueTuple.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Xml.XPath.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\vbc.exe
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\vbc.exe.config
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\vbc.rsp
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\VBCSCompiler.exe
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\roslyn\VBCSCompiler.exe.config
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Antlr3.Runtime.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\EntityFramework.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\EntityFramework.SqlServer.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Microsoft.AI.DependencyCollector.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Microsoft.AI.Web.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Microsoft.AI.WindowsServer.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Microsoft.ApplicationInsights.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Microsoft.Web.Infrastructure.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Newtonsoft.Json.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\System.Web.Helpers.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\System.Web.Mvc.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\System.Web.Optimization.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\System.Web.Razor.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\System.Web.WebPages.Deployment.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\System.Web.WebPages.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\System.Web.WebPages.Razor.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\WebGrease.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\EntityFramework.xml
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\EntityFramework.SqlServer.xml
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\System.Web.Helpers.xml
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\System.Web.Mvc.xml
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\System.Web.Optimization.xml
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\System.Web.Razor.xml
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\System.Web.WebPages.xml
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\System.Web.WebPages.Deployment.xml
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\System.Web.WebPages.Razor.xml
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Newtonsoft.Json.xml
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Antlr3.Runtime.pdb
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Microsoft.AI.DependencyCollector.xml
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Microsoft.AI.WindowsServer.xml
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Microsoft.AI.Web.xml
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.csproj.CoreCompileInputs.cache
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.dll
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.pdb
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.csprojAssemblyReference.cache
+E:\Data Driven Web\LoginRegisterSessions -Working BackUp\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.csproj.CopyComplete
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\ApplicationInsights.config
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\LoginRegisterSessions.dll.config
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\LoginRegisterSessions.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\LoginRegisterSessions.pdb
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\csc.exe
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\csc.exe.config
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\csc.rsp
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\csi.exe
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\csi.exe.config
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\csi.rsp
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.AppContext.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Collections.Immutable.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Console.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Diagnostics.Process.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.IO.Compression.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.IO.FileSystem.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.IO.Pipes.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Reflection.Metadata.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Security.AccessControl.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Security.Claims.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Threading.Thread.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.ValueTuple.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Xml.XPath.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\vbc.exe
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\vbc.exe.config
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\vbc.rsp
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\VBCSCompiler.exe
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\roslyn\VBCSCompiler.exe.config
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Antlr3.Runtime.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\EntityFramework.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\EntityFramework.SqlServer.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Microsoft.AI.DependencyCollector.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Microsoft.AI.Web.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Microsoft.AI.WindowsServer.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Microsoft.ApplicationInsights.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Microsoft.Web.Infrastructure.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Newtonsoft.Json.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\System.Web.Helpers.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\System.Web.Mvc.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\System.Web.Optimization.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\System.Web.Razor.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\System.Web.WebPages.Deployment.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\System.Web.WebPages.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\System.Web.WebPages.Razor.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\WebGrease.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\EntityFramework.xml
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\EntityFramework.SqlServer.xml
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\System.Web.Helpers.xml
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\System.Web.Mvc.xml
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\System.Web.Optimization.xml
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\System.Web.Razor.xml
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\System.Web.WebPages.xml
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\System.Web.WebPages.Deployment.xml
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\System.Web.WebPages.Razor.xml
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Newtonsoft.Json.xml
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Antlr3.Runtime.pdb
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Microsoft.AI.DependencyCollector.xml
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Microsoft.AI.WindowsServer.xml
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Microsoft.AI.Web.xml
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.csprojAssemblyReference.cache
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.csproj.CoreCompileInputs.cache
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.csproj.CopyComplete
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.dll
+E:\Data Driven Web\Assignment Part 2\LoginRegisterSessions\obj\Debug\LoginRegisterSessions.pdb

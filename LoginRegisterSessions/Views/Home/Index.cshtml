@@ -1,0 +1,91 @@
+﻿@model LoginRegisterSessions.Models.Booking
+
+@{
+    ViewBag.Title = "Index";
+}
+@{
+    <script src="~/Scripts/jquery-3.3.1.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <script src="~/Scripts/booking.js"></script>
+}
+
+
+<div class="container-fluid">
+    <h2>Bookings</h2>
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal" onclick="clearTextBox();">Add New Booking</button><br /><br />
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>
+                    BookingID
+                </th>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Age
+                </th>
+                <th>
+                    State
+                </th>
+                <th>
+                    Country
+                </th>
+                <th>
+                    Action
+                </th>
+            </tr>
+        </thead>
+        <tbody class="tbody"></tbody>
+    </table>
+</div>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                @*<button type="button" class="close" data-dissmiss="modal"><span aria-hidden="true">×</span></button>*@
+                <button type="button" class="close" data-dismiss="modal">×</button>
+                <h4 class="modal-title" id="myModalLabel">Add Booking</h4>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label for="EmployeeId">ID</label>
+                        <input type="text" class="form-control" id="BookingID" placeholder="Id" disabled="disabled" />
+                    </div>
+                    <div class="form-group">
+                        <label for="booking_date">booking_date</label>
+                        <input type="date" class="form-control" id="booking_date" placeholder="booking_date" />
+                    </div>
+                    <div class="form-group">
+                        <label for="car_make">car_make</label>
+                        <input type="text" class="form-control" id="car_make" placeholder="car_make" />
+                    </div>
+                    <div class="form-group">
+                        <label for="car_model">car_model</label>
+                        <input type="text" class="form-control" id="car_model" placeholder="car_model" />
+                    </div>
+                    <div class="form-group">
+                        <label for="car_colour">car_colour</label>
+                        <input type="text" class="form-control" id="car_colour" placeholder="car_colour" />
+                    </div>
+                    <div class="form-group">
+                        <label for="user_email">user_email</label>
+                        <input type="text" class="form-control" id="user_email" placeholder="user_email" />
+                    </div>
+                    <div class="form-group">
+                        <label for="user_name">user_name</label>
+                        <input type="text" class="form-control" id="user_name" placeholder="user_name" />
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" id="btnAdd" onclick="return Add();">Add</button>
+                <button type="button" class="btn btn-primary" id="btnUpdate" style="display:none;" onclick="Update();">Update</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+</div>
+</div>
